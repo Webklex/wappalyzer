@@ -1,4 +1,4 @@
-module main
+module github.com/webklex/wappalyzer
 
 go 1.18
 
